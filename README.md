@@ -1,6 +1,7 @@
 ### Hi there 👋
-center('My name is **Hieu**, welcome to the workspace of my data project & code!!!',0);
-<!--
+<p align="center">
+  My name is **Hieu**, welcome to the workspace of my data project & code!!!🔭
+</p>
 **hieucabo/hieucabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
