@@ -16,7 +16,7 @@
 - Python: Starter
 
 📕**Currently learning**📘
-- [Data Analyst in SQL](https://app.datacamp.com/learn/career-tracks/data-analyst-in-sql)
+- [Data Analyst in SQL](https://app.datacamp.com/learn/career-tracks/data-analyst-in-sql) [**80%**]
 
 👋**Connect with me via**🖐️
-- [LinkedIn](https://www.linkedin.com/in/hieucabo/)
+- [LinkedIn](https://www.linkedin.com/in/hieucabo/) 
