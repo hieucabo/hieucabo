@@ -1,17 +1,23 @@
-### Hi there 👋
 <p align="center">
-  My name is __Hieu__ , welcome to the workspace of my data project & code!!!🔭
+   <b> Hi there </b> 🙋‍♂️
 </p>
-**hieucabo/hieucabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  My name is <b>Hieu</b> 🧑‍💻 , welcome to the workspace of my data project & code!!!🔭
+</p>
 
-Here are some ideas to get you started:
+🚀**A short description about ME**🛰️
+- 🔭 I’m currently working on Logistics and Supply Chain field.
+- 📊 Have passion in data since I was still a colleage student.
+- 📖 Start learning data analysis since 2022 October. Self-taught SQL, PowerBI, Python.
+- 💪 Working hard to become a data scientist in the near future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎖️**Skills**🏅
+- SQL: Intermediate
+- PowerBI: Elementary
+- Python: Starter
+
+📕**Currently learning**📘
+- [Data Analyst in SQL](https://app.datacamp.com/learn/career-tracks/data-analyst-in-sql)
+
+👋**Connect with me via**🖐️
+- [LinkedIn](https://www.linkedin.com/in/hieucabo/)
