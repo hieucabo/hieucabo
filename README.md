@@ -1,9 +1,8 @@
 <p align="center">
    <b> Hi there </b> 🙋‍♂️
 </p>
-<p align="center">
+
   My name is <b>Hieu</b> 🧑‍💻 , welcome to the workspace of my data project & code!!!🔭
-</p>
 
 🚀**A short description about ME**🛰️
 - 🔭 I’m currently working on Logistics and Supply Chain field.
