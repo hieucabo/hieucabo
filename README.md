@@ -17,7 +17,8 @@
 
 📕**Currently learning**📘
 - [Data Analyst in SQL](https://app.datacamp.com/learn/career-tracks/data-analyst-in-sql) [**✔**]
-- [Data Analyst in Power BI](https://app.datacamp.com/learn/career-tracks/data-analyst-in-power-bi) [**5%**]
+- [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/8ZH4YFNLLWFZ) [**✔**]
+- [Data Scientist with R](https://app.datacamp.com/learn/career-tracks/data-scientist-with-r) [**20%**]
 
 👋**Connect with me via**🖐️
 - [LinkedIn](https://www.linkedin.com/in/hieucabo/) 
