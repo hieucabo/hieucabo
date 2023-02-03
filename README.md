@@ -16,6 +16,13 @@
 - R Studio: Elementary
 - Python: Starter
 
+🧐**My project**⚒
+- [Self-study Project](https://github.com/hieucabo/Selfstudy-Project)
+- [8-Week-SQL-Challenge](https://github.com/hieucabo/8-Week-SQL-Challenge) [**✔**]
+- [Google-Data-Analytics](https://github.com/hieucabo/Google-Data-Analytics) [**✔**]
+- [University Thesis](https://github.com/hieucabo/University-Thesis) [**✔**]
+
+
 📕**Currently learning**📘
 - [Data Analyst in SQL](https://app.datacamp.com/learn/career-tracks/data-analyst-in-sql) [**✔**]
 - [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/8ZH4YFNLLWFZ) [**✔**]
