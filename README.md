@@ -13,6 +13,7 @@
 🎖️**Skills**🏅
 - SQL: Intermediate
 - PowerBI: Elementary
+- R Studio: Elementary
 - Python: Starter
 
 📕**Currently learning**📘
