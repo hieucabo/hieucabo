@@ -16,7 +16,7 @@
 - R Studio: Elementary
 - Python: Starter
 
-🧐**My project**⚒
+🧐**My work and project**⚒
 - [Self-study Project](https://github.com/hieucabo/Selfstudy-Project)
 - [8-Week-SQL-Challenge](https://github.com/hieucabo/8-Week-SQL-Challenge) [**✔**]
 - [Google-Data-Analytics](https://github.com/hieucabo/Google-Data-Analytics) [**✔**]
