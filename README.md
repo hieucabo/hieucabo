@@ -7,7 +7,7 @@
 🚀**A short description about ME**🛰️
 - 🔭 I’m currently working on Logistics and Supply Chain field.
 - 📊 Have passion in data since I was still a colleage student.
-- 📖 Start learning data analysis since 2022 October. Self-taught SQL, PowerBI, Python.
+- 📖 Start learning data analysis since 2022 October. Self-taught SQL, PowerBI, R Studio.
 - 💪 Working hard to become a data scientist in the near future.
 
 🎖️**Skills**🏅
