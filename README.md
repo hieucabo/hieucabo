@@ -14,7 +14,6 @@
 - SQL: Intermediate
 - PowerBI: Elementary
 - R Studio: Elementary
-- Python: Starter
 
 🧐**My work and project**⚒
 - [Self-study Project](https://github.com/hieucabo/Selfstudy-Project)
