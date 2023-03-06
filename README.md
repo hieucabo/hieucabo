@@ -11,9 +11,9 @@
 - 💪 Working hard to become a data scientist in the near future.
 
 🎖️**Skills**🏅
-- SQL: Intermediate
-- PowerBI: Elementary
-- R Studio: Elementary
+- SQL
+- PowerBI
+- R Studio
 
 🧐**My work and project**⚒
 - [Self-study Project](https://github.com/hieucabo/Selfstudy-Project)
