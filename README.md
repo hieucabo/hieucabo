@@ -17,7 +17,7 @@
 
 🧐**My work and project**⚒
 - [Self-study Project](https://github.com/hieucabo/Selfstudy-Project)
-- [8-Week-SQL-Challenge](https://github.com/hieucabo/8-Week-SQL-Challenge) [**2/8**]
+- [8-Week-SQL-Challenge](https://github.com/hieucabo/8-Week-SQL-Challenge) [**4/8**]
 - [Google-Data-Analytics](https://github.com/hieucabo/Google-Data-Analytics) [**✔**]
 - [University Thesis](https://github.com/hieucabo/University-Thesis) [**✔**]
 
