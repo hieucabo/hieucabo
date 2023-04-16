@@ -26,6 +26,7 @@
 - [Data Analyst in SQL](https://app.datacamp.com/learn/career-tracks/data-analyst-in-sql) [**✔**]
 - [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/8ZH4YFNLLWFZ) [**✔**]
 - [Data Scientist with R](https://app.datacamp.com/learn/career-tracks/data-scientist-with-r) [**20%**]
+- [Data Analyst with Python](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python) [**66%**]
 
 👋**Connect with me via**🖐️
 - [LinkedIn](https://www.linkedin.com/in/hieucabo/) 
