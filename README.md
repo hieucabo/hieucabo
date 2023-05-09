@@ -5,15 +5,16 @@
   My name is <b>Hieu</b> 🧑‍💻 , welcome to the workspace of my data project & code!!!🔭
 
 🚀**A short description about ME**🛰️
-- 🔭 I’m currently working on Logistics and Supply Chain field.
+- 🔭 I’m currently working as E-commerce Data Analyst Intern at Customore.
 - 📊 Have passion in data since I was still a colleage student.
-- 📖 Start learning data analysis since 2022 October. Self-taught SQL, PowerBI, R Studio.
+- 📖 Start learning data analysis since 2022 October. Self-taught SQL, PowerBI, R Studio and Python.
 - 💪 Working hard to become a data scientist in the near future.
 
 🎖️**Skills**🏅
 - SQL
 - PowerBI
 - R Studio
+- Python
 
 🧐**My work and project**⚒
 - [Self-study Project](https://github.com/hieucabo/Selfstudy-Project)
@@ -26,7 +27,7 @@
 - [Data Analyst in SQL](https://app.datacamp.com/learn/career-tracks/data-analyst-in-sql) [**✔**]
 - [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/8ZH4YFNLLWFZ) [**✔**]
 - [Data Scientist with R](https://app.datacamp.com/learn/career-tracks/data-scientist-with-r) [**20%**]
-- [Data Analyst with Python](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python) [**66%**]
+- [Data Analyst with Python](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python) [**75%**]
 
 👋**Connect with me via**🖐️
 - [LinkedIn](https://www.linkedin.com/in/hieucabo/) 
