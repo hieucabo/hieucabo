@@ -5,9 +5,10 @@
   My name is <b>Hieu</b> 🧑‍💻 , welcome to the workspace of my data project & code!!!🔭
 
 🚀**A short description about ME**🛰️
-- 🔭 I’m currently working as E-commerce Data Analyst Intern at Customore.
-- 📊 Have passion in data since I was still a colleage student.
-- 📖 Start learning data analysis since 2022 October. Self-taught SQL, PowerBI, R Studio and Python.
+- 🔭 I’m currently working as a Data Analyst at EQuest.
+- 📖 Start learning data analysis in October 2022. Self-taught SQL, PowerBI, R Studio, and Python.
+- 🏅 Succeed joining the Data Field in March 2023; first internship job was as an E-commerce Analyst Intern in Customore.
+- 📊 Have a passion for data since I was still a high school student.
 - 💪 Working hard to become a data scientist in the near future.
 
 🎖️**Skills**🏅
